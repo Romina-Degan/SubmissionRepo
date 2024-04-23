@@ -1,0 +1,21 @@
+{
+    "TaskValues":[
+        {"TaskDescriptions":[
+                {"taskID":1, "taskName":"Hoover Place", "duration":5,   "label":["All"]},
+                {"taskID":2, "taskName":"Do Laundry","duration":2, "label":["Personal"]},
+                {"taskID":3, "taskName":"Clean Dishes" ,"duration":2,"label":["Kitchen"]},
+                {"taskID":4, "taskName":"Take Trash Out","duration":1,  "label":["Living Room"]},
+                {"taskID":6, "taskName":"Clean Bathroom","duration":5, "label":["Bathroom"]},
+                {"taskID":7, "taskName":"Clean Living Room","duration":3,  "label":["Living Room"]}
+
+                
+            ]
+        },{"DateDescription":[
+
+            {"startDate":"27/02/2024", "endDate":"05/02/2024"}
+
+        ]
+        }   
+]
+}
+   
