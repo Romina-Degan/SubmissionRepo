@@ -1,6 +1,6 @@
 # SubmissionRepo
 Items for Final Submission of Dissertation, link to repo:
-https://github.com/Romina-Degan/SubmissionRepo__
+https://github.com/Romina-Degan/SubmissionRepo <br />
 Link to shared development repo: https://github.com/UoA-Kilo/bhive-frontend
 
 # Note
