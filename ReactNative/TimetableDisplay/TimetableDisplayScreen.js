@@ -1,4 +1,5 @@
 /* eslint-disable prettier/prettier */
+//Code taken from https://github.com/wix/react-native-calendars/tree/master
 import React, { useEffect, useState } from 'react';
 import { View,StyleSheet } from 'react-native';
 import { Homestyles,check } from '../../styles';

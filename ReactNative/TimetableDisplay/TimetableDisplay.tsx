@@ -1,5 +1,5 @@
 /* eslint-disable prettier/prettier */
-
+//Code taken from https://github.com/wix/react-native-calendars/tree/master
 import React, {useCallback, useRef,useContext, useEffect} from 'react';
 import { View, StyleSheet } from 'react-native';
 import {useCurrentUserContext} from '../../hooks/CurrentUserContext';

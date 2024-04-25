@@ -1,10 +1,10 @@
 /* eslint-disable prettier/prettier */
+//Code taken from https://github.com/wix/react-native-calendars/tree/master
 import { useState } from "react";
 import { title } from "../../styles/elements/typography";
 import { MarkedDates } from "./TimetableFunctions";
 const today = new Date();
 today.setDate(today.getDate() + 1);
-//yourDate.setDate(yourDate.getDate() + 1);
 const tomorrow = today.toISOString().split('T')[0];
 console.log(tomorrow);
 
